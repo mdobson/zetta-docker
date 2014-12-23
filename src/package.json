@@ -4,7 +4,7 @@
   "description": "Docker container for zetta",
   "main": "index.js",
   "dependencies": {
-    "zetta": "^0.18.0"
+    "zetta": "*"
   },
   "devDependencies": {},
   "scripts": {
