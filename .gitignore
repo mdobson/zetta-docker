@@ -1,4 +1,5 @@
 .peers/
 .registry/
+.devices/
 node_modules
 .DS_Store
